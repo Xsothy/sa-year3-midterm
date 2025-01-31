@@ -106,8 +106,8 @@ Vue.component('product-list', {
             Toast.fire({
                 icon: 'success',
                 title: 'Added to cart',
-                background: colors.primary + '10',
-                color: colors.primary
+                background: colors.primary + '70',
+                color: 'white'
             });
         }
     },
